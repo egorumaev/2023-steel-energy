@@ -9,7 +9,7 @@
 
  * Pandas, Numpy, Matplotlib, Seaborn, DateTime, Phik, Sklearn, Imblearn, Feature_Engine, Catboost, Xgboost, Lightgbm
 
- * Pipeline, RandomizedSearchCV, PolynomialFeatures, MinMaxScaler, DropCorrelatedFeatures, SelektKBest, VotingRegressor, background_gradient
+ * Pipeline, Feature Engineering, RandomizedSearchCV, PolynomialFeatures, MinMaxScaler, DropCorrelatedFeatures, SelektKBest, VotingRegressor, background_gradient
 
 ---
 
